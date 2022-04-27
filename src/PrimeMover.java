@@ -17,7 +17,7 @@ public class PrimeMover {
 
         }
 
-        return num;
+        return toplam;
 
     }
 
